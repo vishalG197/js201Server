@@ -1,4 +1,133 @@
-{
+{    "menshoes":[
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171924_W_1?fmt=webp&wid=200",
+    "id": "1",
+    "title": "Nature X One",
+    "price": "  130",
+    "description": "Mens Sport Shoes",
+    "type": "White Leather"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170376_W_1?fmt=webp&wid=200",
+    "id": "2",
+    "title": "ALT Trail Walk",
+    "price": "130",
+    "description": "Mens Sport Shoes",
+    "type": "Brown"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170149_W_1?fmt=webp&wid=200",
+    "id": "3",
+    "title": "ALT Trail Walk WaterPro",
+    "price": "140",
+    "description": "Mens Sport Shoes",
+    "type": "Navy Multi"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170149_W_1?fmt=webp&wid=200",
+    "id": "4",
+    "title": "ALT Trail Wally ",
+    "price": "120",
+    "description": "Mens Sport Shoes",
+    "type": "Cobalt"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172437_W_1?fmt=webp&wid=260",
+    "id": "5",
+    "title": "ALT Trail Wally ",
+    "price": "120",
+    "description": "Mens Sport Shoes",
+    "type": "Black"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26172439_W_1?fmt=webp&wid=200",
+    "id": "6",
+    "title": "ALT Trail Wally ",
+    "price": "120",
+    "description": "Mens Sport Shoes",
+    "type": "Olive"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170264_W_1?fmt=webp&wid=200",
+    "id": "7",
+    "title": "Nature X One ",
+    "price": "130",
+    "description": "Mens Sport Shoes",
+    "type": "Pibble"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171979_W_1?fmt=webp&wid=200",
+    "id": "8",
+    "title": "Nature X One ",
+    "price": "130",
+    "description": "Mens Sport Shoes",
+    "type": "Grey Combination"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170629_W_1?fmt=webp&wid=260",
+    "id": "9",
+    "title": "Nature X One ",
+    "price": "130",
+    "description": "Mens Sport Shoes",
+    "type": "Grey Combination"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26171620_W_1?fmt=webp&wid=200",
+    "id": "10",
+    "title": "Court Lite Move ",
+    "price": "120",
+    "description": "Mens Sport Shoes",
+    "type": "Grey Combination"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26169715_W_1?fmt=webp&wid=200",
+    "id": "11",
+    "title": "Court Lite Move ",
+    "price": "120",
+    "description": "Mens Sport Shoes",
+    "type": "White"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26169714_W_1?fmt=webp&wid=200",
+    "id": "12",
+    "title": "Court Lite Move ",
+    "price": "120",
+    "description": "Mens Sport Shoes",
+    "type": "Black"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170031_W_1?fmt=webp&wid=200",
+    "id": "13",
+    "title": "Craft Run Tor ",
+    "price": "140",
+    "description": "Mens Sport Shoes",
+    "type": "Grey"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170033_W_1?fmt=webp&wid=200",
+    "id": "14",
+    "title": "Craft Run Tor ",
+    "price": "140",
+    "description": "Mens Sport Shoes",
+    "type": "Dark Sand"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170544_W_1?fmt=webp&wid=200",
+    "id": "15",
+    "title": "Top Run ",
+    "price": "180",
+    "description": "Mens Originals Icon Shoes ",
+    "type": "Dark Combi"
+  },
+  {
+    "img": "https://clarks.scene7.com/is/image/Pangaea2Build/26170548_W_1?fmt=webp&wid=200",
+    "id": "16",
+    "title": "Craft Run Tor",
+    "price": "140",
+    "description": "Mens Originals Icon Shoes ",
+    "type": "Navy"
+  }
+],
     "bestseller":[
       {
         "image": "https://clarks.scene7.com/is/image/Pangaea2Build/26170271_W_1?fmt=webp&wid=260",
